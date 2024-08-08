@@ -1,4 +1,4 @@
-# Hello Friende
+# Hello Friends
 # My Name is Abhishek
 # I Create a Project is Jarvis A.I 
 # My Friends are help me is this project His name is 
